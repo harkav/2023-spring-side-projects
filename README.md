@@ -25,3 +25,5 @@ An app that displays some kind of quotes
 A tokenizer 
 An n-gram app 
 A cat picture app 
+
+a webpage with the question: is this a good idea? 
